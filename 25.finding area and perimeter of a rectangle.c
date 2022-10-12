@@ -2,6 +2,7 @@
 #include <stdio.h>
 main()
 {
+  printf("registration number = RA22110420110033");
 int p , q , area , perimeter 
 p = 4 ; 
 q = 6 ; 
