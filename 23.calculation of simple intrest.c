@@ -1,11 +1,12 @@
-/* Calculation of simple intrest */
+#include <stdio.h>
 main()
 {
-int p, n ; 
-float r , si ; 
+  printf("registration number = RA22110420110033");
+int p, n; 
+float r , si; 
 p= 1000;
-n = 3 ; 
-r = 8.5 ; 
+n = 3; 
+r = 8.5; 
 /* formula for simple intrest */ 
 si = p*n*r/100; 
 printf ( " %f" , si ); 
