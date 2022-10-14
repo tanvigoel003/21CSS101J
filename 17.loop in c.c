@@ -7,7 +7,7 @@ int main()
   int i =0;  //declaration and initialisationat the same time
   for(i = 0; i < 10; i++)
   {
-    printf("Registration number : RA22110420110033");
+    printf("Registration number : RA22110420110033"\n);
     printf("i=%d\n",i);
     /* consequently , when i equals 10 , the loop breaks. i is updated before the condition is checked- hence the value of i after exiting the loop is 10 
     */
