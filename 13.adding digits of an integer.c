@@ -2,7 +2,7 @@
 #include < studio.h>
 main() 
 {
-  printf("Registration number = RA2211042010033")
+  printf("Registration number = RA2211042010033"\n);
 int digit_1 , digit_2 , digit_3 , digit_4, digit_5 , sum , number , n ; 
 scanf( "%d", &number) ; 
 n = number ; 
