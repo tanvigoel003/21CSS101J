@@ -1,7 +1,7 @@
 #include <stdio.h>
 main()
 {
-  printf("registration number = RA22110420110033");
+  printf("registration number = RA22110420110033"\n);
 int p, n; 
 float r , si; 
 p= 1000;
