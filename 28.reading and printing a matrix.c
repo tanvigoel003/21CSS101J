@@ -1,6 +1,7 @@
 #include <stdio.h>
 main()
 {
+  printf("Registration number = RA2211042010033"\n);
   int mat[5][4], i , j ;
   for (i = 1; i <= 4; ++i)
     for (j = 1; j <= 3; ++j)
