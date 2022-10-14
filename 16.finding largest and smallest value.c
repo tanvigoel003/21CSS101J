@@ -2,7 +2,7 @@
 int a,b;
 int main()
 {
-  printf("registration number = RA2211042010033");
+  printf("registration number = RA2211042010033"\n);
   printf("\n\nEnter the two values to find the greatest and smallest number : 010 ,007\n");
   scanf"("%d%d",&a , &b);
     if(a == b)
