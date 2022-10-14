@@ -2,6 +2,7 @@
 #include <studio.h>
 main()
 { 
+  printf("registration number = RA2211042010033"\N);
 float x , x2 , x3 , x4 , x6 , x8 , x10 , sum ; 
 scanf("%f" , &x ); 
 printf("x =%f \n" , x) ; 
