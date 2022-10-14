@@ -2,6 +2,7 @@
 int main()
 {
   char ch;
+  printf("Rgistration number = RA2211042010033"\n);
   printf(" Input a Character : ");
   scanf("%c" , &ch);
   switch(ch)
