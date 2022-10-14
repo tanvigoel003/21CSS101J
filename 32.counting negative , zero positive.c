@@ -1,6 +1,7 @@
 #include <stdio.h>
 main()
 {
+  printf("Registration number = RA2211042010033");
   int number , no_positive = 0 , no_zero = 0 , no_negative = 0;
   scanf("%d", &number);
   do
