@@ -2,7 +2,7 @@
 #include <stdio.h>
 main()
 { 
-  printf("Registration number = RA22110420110033");
+  printf("Registration number = RA22110420110033"\n);
 int rupees , paise , cost_of_28;
 float  cost_dozen, rcost_28; 
 /*read cost of 12 mangoes */
