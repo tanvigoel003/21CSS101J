@@ -2,7 +2,7 @@
 #include<ctype.h> //to use system defined function islowerand toupper
 int main()
 {
-  printf("Registration number = RA2211042010033")
+  printf("Registration number = RA2211042010033"\n);
   char alphabet;
   printf("Enter an alphabet : t");
   putchar('\n'); //to move to next line 
