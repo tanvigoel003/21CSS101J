@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  printf("Registration number = RA22110420110033");
+  printf("Registration number = RA22110420110033"\n);
   float miles , kilometers;
   printf("enter distance in miles = 69");
   scanf("%f" ,&miles);
