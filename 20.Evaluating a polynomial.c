@@ -1,7 +1,7 @@
 #include <stdio.h>
 main()
 {
-  printf("Registration number = RA22110420110033");
+  printf("Registration number = RA22110420110033"\n);
          int i, n;
   float x , a[20] , polynomial;
   scanf("%d %f , &n , &x);
