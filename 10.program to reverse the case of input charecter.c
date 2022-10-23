@@ -1,5 +1,5 @@
 #include <stdio,h>
-#include<ctype.h> //to use system defined function islowerand toupper
+#include<ctype.h> //to use system defined function is lowerand toupper
 int main()
 {
   printf("Registration number = RA2211042010033"\n);
