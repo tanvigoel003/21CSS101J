@@ -3,10 +3,10 @@
 main() 
 {
   printf("Registration number = RA2211042010033"\n);
-int digit_1 , digit_2 , digit_3 , digit_4, digit_5 , sum , number , n ; 
-scanf( "%d", &number) ; 
+int digit_1 , digit_2 , digit_3 , digit_4, digit_5 , sum , number , n ; // declaring the variables 
+scanf( "%d", &number) ; // scanf is used to get input from the user 
 n = number ; 
-digit_1 = n % 10 ; 
+digit_1 = n % 10 ;
 n =n/10 
 digit_2 = n % 10 ; 
 n = n/10 ; 
