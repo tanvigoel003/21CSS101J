@@ -4,7 +4,7 @@ int main()
   /*
   always declare the variable before using them 
   */
-  int i =0;  //declaration and initialisationat the same time
+  int i =0;  //declaration and initialisation at the same time
   for(i = 0; i < 10; i++)
   {
     printf("Registration number : RA22110420110033"\n);
