@@ -1,10 +1,9 @@
 #include <stdio.h>
-int a,b;
+int a,b; // declaring global variables 
 int main()
 {
   printf("registration number = RA2211042010033"\n);
   printf("\n\nEnter the two values to find the greatest and smallest number : 010 ,007\n");
-  scanf"("%d%d",&a , &b);
     if(a == b)
       printf("Both are equal\n");
   else if (a < b)
