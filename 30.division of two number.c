@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  printf("registration number = RA2211042010033"\n);
+  printf("registration number = RA2211042010033\n");
   int num1,num2,div; // declaring the variable 
   printf("Enter Two Numbers\n");
   printf("-------- \n");
