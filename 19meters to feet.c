@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  printf("Registration number = RA22110420110033"\n);
+  printf("Registration number = RA22110420110033\n");
   int meters; // value given by the user will be in integer 
   float feet; // value after conversion can be a floating type 
   pritf("enter the value for meters = ");
