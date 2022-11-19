@@ -1,4 +1,5 @@
 /* Calculation of simple intrest */
+#include <stdio.h>
 int main()
 {
   printf("Registration number = RA22110420110033"\n);
@@ -7,4 +8,5 @@ int main()
   /* formula for simple intrest */
   si = p*n*r/100;
   printf ( " %f" , si ); 
+  return 0;
 }
