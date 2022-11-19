@@ -3,6 +3,7 @@ int main()
 {
   /* Local Variable Definition */
   char grade;
+  printf("registration number = RA2211042010033\n");
   printf("Enter your grade :\n");
   scanf("%c" , &grade);
   switch(grade)
