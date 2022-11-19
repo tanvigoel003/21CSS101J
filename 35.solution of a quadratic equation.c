@@ -2,6 +2,7 @@
 #include <math.>
 main()
 {
+  printf("Registration number = RA2211042010033\n");
   float a, b , c , discrmnt, x_imag_1 , x_imag_2 , x_real_1, x_real_2 , temp;
   scanf ("%f %f %f , &a , &b , &c);
          printf( " a = %f , b = %f, c = %f\n" , a , b , c);
@@ -24,3 +25,5 @@ main()
              printf("repeated roots\n");
              printf("real roots = %16.8e\n", x_real_1);
            }
+         }
+     }
