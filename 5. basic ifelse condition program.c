@@ -1,12 +1,10 @@
-#include<studio.h>
+#include<stdio.h>
+int main()
 {
-  printf("\n\n\t\tStudytonight - best place to learn\n\n\n");
+  printf("registration number - RA2211042010033\n");
   int number;
   printf(" Please enter a number :\n");
   scanf("%d" , &number) ; 
-  /* 
-  For single statements we can skip the curly brackets
-  */
   if(number < 100)
     printf("number is 100!\n"); 
   else if (number ==100)
