@@ -2,8 +2,8 @@
 #include <stdio.h>
 main()
 {
-  printf("registration number = RA22110420110033"\n);
-int p , q , area , perimeter // let p , q be sides of the rectangle in cm 
+  printf("registration number = RA22110420110033\n");
+int p , q , area , perimeter; // let p , q be sides of the rectangle in cm 
 p = 4 ; 
 q = 6 ; 
 area = p*q ; // formula of area of a rectangle 
