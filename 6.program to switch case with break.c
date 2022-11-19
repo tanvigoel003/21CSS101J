@@ -1,7 +1,7 @@
 #include<studio.h>
 int main()
 {
-  printf("\n\n\t\tStudytonight-Best place to learn \n\n\n");
+  printf("registration number - RA2211042010033\n");
   //Local Variable Definition 
   char grade;
   printf('Enter your grade :\n");
