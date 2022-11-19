@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-  printf("registration number = RA2211042010033"\n);
+  printf("registration number = RA2211042010033");
   float radius , area; // float is used because the values can have foating points  
   printf("Enter the radius of circle : ");
   scanf("%d",&radius); // take the value of radius value from the user 
