@@ -2,17 +2,18 @@
 void main()
 {
   int arra[100], i, n, x, f, l, m, flag = 0;
+  printf("Registration number : RA2211042010033\n");
   printf("Input no. of elements in an array\n 3");
   scanf("%d", &n);
   printf("Input %d value in ascending order\n", n);
   for(i = 0; i < n; i++);
     scanf("%d, &arra[i]);
-          printf("Input the value to be search : ");
-          scanf("%d", &x);
-          f = 0; 1 = n - 1;
-          while(f <= 1)
-          {
-          m = (f + 1)/2;
+     printf("Input the value to be search : ");
+     scanf("%d", &x);
+     f = 0; 1 = n - 1;
+      while(f <= 1)
+      {
+        m = (f + 1)/2;
           if(x == arra[m]){
             flag = 1;
             break;
