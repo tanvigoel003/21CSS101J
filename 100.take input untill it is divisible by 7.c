@@ -1,13 +1,16 @@
-#include <stdio.h>
+#include<stdio.h>
 void main(void)
+{
+  printf("registration number : RA2211042010033\n");
   int number;
   printf("enter the number : \n");
   scanf("%d",&number);
-   do
+  do
   {
     printf("enter the number : \n");
   scanf("%d",&number);
-if (number % 7 != 0) 
+    
+  if (number % 7 == 0) 
   { 
     printf("the entered number is not allowed as input\n");
   break;
