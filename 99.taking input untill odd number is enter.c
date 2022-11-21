@@ -5,6 +5,17 @@ void main(void)
   int number;
   printf("enter the number : \n");
   scanf("%d",&number);
-  if (number % 2 == 0) {printf("the entered number is %d\n",number);}
-  else {printf("the entered number is not allowed as input");}
-}
+  do
+  {
+    printf("enter the number : \n");
+  scanf("%d",&number);
+    
+  if (number % 2 != 0) 
+  { 
+    printf("the entered number is not allowed as input\n");
+  break;
+  }
+  }
+    while(1);
+printf("the code is running successfully\n");
+  }
